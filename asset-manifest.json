@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple-App-React-Router/static/css/main.575a1174.chunk.css",
+    "main.js": "/Simple-App-React-Router/static/js/main.beaddaa6.chunk.js",
+    "main.js.map": "/Simple-App-React-Router/static/js/main.beaddaa6.chunk.js.map",
+    "runtime-main.js": "/Simple-App-React-Router/static/js/runtime-main.5e004675.js",
+    "runtime-main.js.map": "/Simple-App-React-Router/static/js/runtime-main.5e004675.js.map",
+    "static/js/2.57ee3617.chunk.js": "/Simple-App-React-Router/static/js/2.57ee3617.chunk.js",
+    "static/js/2.57ee3617.chunk.js.map": "/Simple-App-React-Router/static/js/2.57ee3617.chunk.js.map",
+    "index.html": "/Simple-App-React-Router/index.html",
+    "precache-manifest.e80fca0b2c77ea1182ff174f2e0f8f7d.js": "/Simple-App-React-Router/precache-manifest.e80fca0b2c77ea1182ff174f2e0f8f7d.js",
+    "service-worker.js": "/Simple-App-React-Router/service-worker.js",
+    "static/css/main.575a1174.chunk.css.map": "/Simple-App-React-Router/static/css/main.575a1174.chunk.css.map",
+    "static/js/2.57ee3617.chunk.js.LICENSE.txt": "/Simple-App-React-Router/static/js/2.57ee3617.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/Simple-App-React-Router/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/Simple-App-React-Router/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/Simple-App-React-Router/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e004675.js",
+    "static/js/2.57ee3617.chunk.js",
+    "static/css/main.575a1174.chunk.css",
+    "static/js/main.beaddaa6.chunk.js"
+  ]
+}
